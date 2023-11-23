@@ -11,12 +11,20 @@ include::../_includes/default-attributes.inc.adoc[]
 
 == Identifizierte Use Cases
 // Liste aller identifizierten Use Cases (priorisiert)
-* *UC01*: ...
-* *UC02*: ...
+* *UC01*: Bestellung aufgeben (Kunde) 
+* *UC04*: Bestellung liefern (BarMitarebeiter)
+* *UC05*: Bestellugn aufgbeben (Kunde)
+* *UC06*: Katalog anzeigen (Kunde)
+* *UC06*: Katalog pflegen (Kunde)
+* *UC07*: Bar kontaktieren (Kunde)
+* *UC08*: Bestellung ändern (Barmitarbeiter)
+* *UC09*: Lieferung verfolgen(Kunde)
+
+
 
 
 == Use Case Diagramm
-// ...
+image::UseCaseDiagram1.jpg[]
 
 //Fügen Sie nachfolgend alle detaillierten Use-Cases per Include ein.
 //Dafür sollten Sie pro Use-Case eine Datei anlegen, die auf dem use_case_01.inc.adoc Template basiert.

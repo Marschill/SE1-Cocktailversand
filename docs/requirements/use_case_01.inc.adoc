@@ -13,6 +13,8 @@ ifndef::main-document[include::../_includes/default-attributes.inc.adoc[]]
 
 === Vorbedingungen
 //Vorbedingungen müssen erfüllt, damit der Use Case beginnen kann, z.B. Benutzer ist angemeldet, Warenkorb ist nicht leer...
+* *Uc1* Bestellung aufgeben: nutzer hat Internetzugriff und ist auf Webseite angemeldet 
+* *Uc4* bestellugn liefern: nutzer hat Andresse angegeben 
 
 <Vorbedingung 1>
 
