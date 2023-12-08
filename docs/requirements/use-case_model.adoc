@@ -25,6 +25,11 @@ include::../_includes/default-attributes.inc.adoc[]
 
 == Use Case Diagramm
 image::UseCaseDiagram1.jpg[]
+[plantuml, "{diagramsdir}/use-case-diagram.puml", svg]
+....
+include::{plantumlsdir}/use-case-diagram.puml[]
+....
+
 
 //Fügen Sie nachfolgend alle detaillierten Use-Cases per Include ein.
 //Dafür sollten Sie pro Use-Case eine Datei anlegen, die auf dem use_case_01.inc.adoc Template basiert.
